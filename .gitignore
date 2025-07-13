@@ -1,0 +1,75 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Environment variable files
+.env
+.env.*
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# LangChain caches / Chroma vector DB / LangSmith local files
+chroma_db/
+*.sqlite3
+*.db
+
+# Temporary files
+*.bak
+*.swp
+*.tmp
+*.old
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# MyPy
+.mypy_cache/
+
+# Pytest
+.pytest_cache/
+
+# Jupyter notebook runtime
+*.nbconvert.ipynb
+
+# PDF files
+*.pdf
+
+# Ignore bin files
+*.bin 
+
+# HTML files
+*.html
